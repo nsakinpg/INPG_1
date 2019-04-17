@@ -1,4 +1,4 @@
-int main()
+int main() //zmiana2.34
 {
   unsigned long liczba;
   short n;
