@@ -1,5 +1,5 @@
 #include <stdio.h> zmiana 1.23
-#include <stdlib.h>
+#include <stdlib.h> zmaina 3
 #include <math.h>    // pow()
 
 /* rozklad_liczby - rozklada liczby na jednosci dziesiatki i setki oraz
