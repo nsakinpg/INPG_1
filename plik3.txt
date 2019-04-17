@@ -1,5 +1,5 @@
 #include <cstdlib>
-#include <iostream>
+#include <iostream> //zmiana 4.554
 
 
 char *T[]={"to jest a b pierwszytekst", "to jest abc drugi tekst", "to jest a b b d trzeci tekst", "a b c d e f"};
