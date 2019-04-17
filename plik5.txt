@@ -1,5 +1,5 @@
 #include <iostream.h>
-#include <stdio.h>
+#include <stdio.h> //zmiana 2.34
 
 
 float n,x;
