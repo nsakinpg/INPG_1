@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream.h> //zmiana 6.69
 #include <stdio.h>
 
 
